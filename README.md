@@ -5,6 +5,6 @@
 Hi 👋, I'm a **Javascript Developer Full Stack** with more than 15 years of exeprience.
 
 - 🙋‍♂️&nbsp;&nbsp;I’m currently working as **Lead Deveveloper Relations** of [Frontity](https://github.com/frontity) 
-- 🦸‍♂️&nbsp;&nbsp;I’ve worked for companies such as [Softonic](https://github.com/softonic) or Adevinta ([SUI components](https://github.com/SUI-Components/sui-components) project) 
 - 👨‍🏫&nbsp;&nbsp;I've been Teacher, Manager & Mentor of different [trainings & bootcamps related to Web Development & Javascript](https://github.com/trainings-juanmaguitar) (more than 5000 ~~flying~~ training hours).
+- 🦸‍♂️&nbsp;&nbsp;Involved in _Open Source Software Development_ projects (like [Frontity](https://github.com/frontity) React framework or [SUI components](https://github.com/SUI-Components/sui-components) React library) 
 - 👷‍♂️&nbsp;&nbsp;I'm also into [**WordPress Gutenberg Development**](https://github.com/wordpress-juanmaguitar) and [Blockchain Development with Solidity](https://github.com/crypto-juanmaguitar)
