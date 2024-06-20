@@ -7,4 +7,4 @@ Hi 👋, I'm a **Javascript guy** with [more than 15 years of experience](https:
 - 🙋‍♂️&nbsp;&nbsp;I’m currently working as **Developer Relations (Team Lead)** at [Automattic](https://github.com/Automattic) 
 - 👨‍🏫&nbsp;&nbsp;I've been Teacher, Manager & Mentor of different [trainings & bootcamps related to Web Development & Javascript](https://github.com/trainings-juanmaguitar) (more than 5000 ~~flying~~ training hours).
 - 🦸‍♂️&nbsp;&nbsp;Involved in _Open Source_ projects like [WordPress' Gutenberg](https://github.com/WordPress/gutenberg), [Frontity](https://github.com/frontity) React framework or [SUI components](https://github.com/SUI-Components/sui-components)
-- 👷‍♂️&nbsp;&nbsp;I'm also into [**WordPress Development**](https://github.com/wordpress-juanmaguitar) and [Blockchain Development with Solidity](https://github.com/crypto-juanmaguitar)
+- 👷‍♂️&nbsp;&nbsp;Currently focused on [**WordPress Development**](https://github.com/wordpress-juanmaguitar)
